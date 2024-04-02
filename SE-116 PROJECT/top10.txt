@@ -1,0 +1,10 @@
+crocodile Expert Bot,128
+turtle,110
+camel Novice Bot,108
+mosquito Regular Bot,105
+camel Novice Bot,97
+mosquito Regular Bot,95
+crocodile Expert Bot,90
+crocodile Expert Bot,86
+turtle,85
+mosquito Regular Bot,76
